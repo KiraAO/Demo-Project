@@ -1,4 +1,4 @@
-February 2017 by Tobias Güntherdasasdasd
+February 2017 by Tobias Günther
 Git Cheat Sheet
 
 Our Git cheat sheet saves you from learning all the commands by heart. Download it for free.
